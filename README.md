@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Olá! Eu sou Matheus
 
-<!--
-**mvtthxvs-dev/mvtthxvs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+☕ Aprendendo Java e começando a explorar Inteligência Artificial  
+🚀 Em busca de uma oportunidade de estágio para aplicar e desenvolver minhas habilidades em tecnologia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Tecnologias e áreas de interesse:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🧠 Em aprendizado
+- Estrutura de dados e lógica de programação
+- Java orientado a objetos
+- Fundamentos de Inteligência Artificial
+- Visualização de dados com Power BI
+
+---
+
+### 📫 Onde me encontrar:
+- LinkedIn: (https://www.linkedin.com/in/matheus-martins-28821a2b2/)
+- E-mail: matheusmartinslk@gmail.com
